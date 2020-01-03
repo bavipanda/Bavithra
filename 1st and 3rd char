@@ -1,0 +1,3 @@
+num=str(input())
+m=[word for word in num]
+print(m[0],m[2],sep='')
