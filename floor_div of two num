@@ -1,0 +1,4 @@
+num1=int(input('Enter First number: '))
+num2 = int(input('Enter Second number '))
+floor_div=num1//num2
+print('Floor Division of ',num1 ,'and' ,num2 ,'is :',floor_div)
